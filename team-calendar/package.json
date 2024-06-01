@@ -1,0 +1,78 @@
+{
+  "name": "team-calendar",
+  "version": "0.1.0",
+  "homepage": "http://gitlab.purpleplane-it.com/devtools/team-calendar",
+  "private": true,
+  "scripts": {
+    "start": "cross-env PUBLIC_URL=\"/\" craco start",
+    "build": "cross-env PUBLIC_URL=\"/\" craco build",
+    "build:gh-pages": "craco build && cp build/index.html build/404.html",
+    "lint": "eslint \"src/**/*.{js,jsx,ts,tsx,json}\" --max-warnings=0",
+    "lint:fix": "eslint --fix \"src/**/*.{js,jsx,ts,tsx,json}\" --max-warnings=0",
+    "format": "prettier --check \"src/**/*.{js,jsx,ts,tsx,css,md,json}\" --config ./.prettierrc",
+    "format:fix": "prettier --write \"src/**/*.{js,jsx,ts,tsx,css,md,json}\" --config ./.prettierrc",
+    "lint-staged": "lint-staged",
+    "test": "jest --passWithNoTests"
+  },
+  "dependencies": {
+    "@craco/craco": "^7.0.0-alpha.7",
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@mui/icons-material": "^5.10.6",
+    "@mui/material": "^5.10.7",
+    "@mui/x-date-pickers": "^5.0.5",
+    "@reduxjs/toolkit": "^1.8.5",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/jest": "^27.5.2",
+    "@types/node": "^16.11.45",
+    "@types/react": "^18.0.15",
+    "@types/react-dom": "^18.0.6",
+    "async-mutex": "^0.3.2",
+    "cross-env": "^7.0.3",
+    "dayjs": "^1.11.6",
+    "formik": "^2.2.9",
+    "i18next": "^21.9.1",
+    "i18next-browser-languagedetector": "^6.1.5",
+    "i18next-http-backend": "^1.4.1",
+    "mui-color-input": "^2.0.1",
+    "process": "^0.11.10",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-i18next": "^11.18.6",
+    "react-redux": "^8.0.2",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "5.0.1",
+    "react-tsparticles": "^1.36.0",
+    "typescript": "^4.7.4",
+    "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.30.7",
+    "@typescript-eslint/parser": "^5.30.7",
+    "eslint": "8.22.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-import-resolver-typescript": "^3.3.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsx-a11y": "^6.6.1",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.30.1",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "husky": "^8.0.1",
+    "lint-staged": "^13.0.3",
+    "prettier": "^2.7.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

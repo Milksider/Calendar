@@ -1,0 +1,918 @@
+{
+  "types": [
+    {
+      "typeName": "newType2",
+      "id": "9rXgweJ",
+      "color": "#30e413"
+    },
+    {
+      "color": "#343acf",
+      "typeName": "type20122022",
+      "id": "pudSYJ7"
+    },
+    {
+      "color": "#b72323",
+      "typeName": "321",
+      "id": "ZD8Ymdf"
+    }
+  ],
+  "users": [
+    {
+      "userName": "Al Zabirov",
+      "ava": "",
+      "id": "2",
+      "type": "back",
+      "email": "fff@mail.com",
+      "password": "sS1",
+      "surname": "Zabirov",
+      "patronymic": "Al",
+      "status": "Работает",
+      "role": "Пользователь",
+      "git": "Zebych"
+    },
+    {
+      "email": "admin@mail.ru",
+      "password": "zZ2",
+      "userName": "z2",
+      "patronymic": "",
+      "surname": "z",
+      "git": "",
+      "role": "Пользователь",
+      "status": "Отпуск",
+      "ava": "",
+      "id": "tFmrKw0"
+    },
+    {
+      "email": "admin@mail.ru",
+      "password": "sS2",
+      "userName": "s2s",
+      "patronymic": "",
+      "surname": "22",
+      "git": "",
+      "role": "Администратор",
+      "status": "Больничный",
+      "ava": "https://cdn.dribbble.com/users/2996076/screenshots/6089291/ravi_godara_-_avatar.png",
+      "id": "Dr1gzVu",
+      "avaFile": {}
+    },
+    {
+      "email": "admin@mail.ru",
+      "password": "2SDd",
+      "userName": "DD",
+      "patronymic": "",
+      "surname": "d",
+      "git": "",
+      "role": "Пользователь",
+      "status": "Работает",
+      "ava": "",
+      "avaFile": {},
+      "id": "8Hnl_hJ"
+    },
+    {
+      "email": "admin@admin.com",
+      "password": "32dD",
+      "userName": "vv",
+      "patronymic": "",
+      "surname": "v",
+      "git": "",
+      "role": "Пользователь",
+      "status": "Работает",
+      "id": "5ZL_Drr"
+    },
+    {
+      "email": "admin@mail.ru",
+      "password": "vvV1",
+      "userName": "admin@admin.com",
+      "patronymic": "f",
+      "surname": "f",
+      "git": "f",
+      "role": "Пользователь",
+      "status": "Работает",
+      "id": "F6YfllA"
+    },
+    {
+      "email": "student1@mail.ru",
+      "password": "fzF1",
+      "userName": "name321",
+      "patronymic": "",
+      "surname": "s",
+      "git": "",
+      "role": "Пользователь",
+      "status": "Работает",
+      "id": "ZY7BRZG"
+    },
+    {
+      "email": "admin@mail.ru",
+      "password": "fFF3",
+      "userName": "FF",
+      "patronymic": "",
+      "surname": "EF",
+      "git": "",
+      "role": "Пользователь",
+      "status": "Работает",
+      "id": "f2kC5Vj"
+    },
+    {
+      "email": "teacher1@mail.ru",
+      "password": "sS1",
+      "userName": "2ee",
+      "patronymic": "",
+      "surname": "rr",
+      "git": "",
+      "role": "Пользователь",
+      "status": "Больничный",
+      "id": "cP9-iHu"
+    },
+    {
+      "email": "admin@mail.ru",
+      "password": "eedE2",
+      "userName": "evfg",
+      "patronymic": "",
+      "surname": "ggvv",
+      "git": "",
+      "role": "Пользователь",
+      "status": "Отпуск",
+      "id": "4j23h1c"
+    },
+    {
+      "email": "admin@mail.ru",
+      "password": "rrR14",
+      "userName": "15",
+      "patronymic": "",
+      "surname": "fv",
+      "git": "",
+      "role": "Пользователь",
+      "status": "Работает",
+      "id": "NVG1P40"
+    },
+    {
+      "email": "admin@mail.ru",
+      "password": "ккК3",
+      "userName": "18",
+      "patronymic": "",
+      "surname": "18",
+      "git": "",
+      "role": "Пользователь",
+      "status": "Работает",
+      "id": "xBo-B6h"
+    },
+    {
+      "email": "admin@mail.ru",
+      "password": "ккК1",
+      "userName": "19",
+      "patronymic": "",
+      "surname": "19",
+      "git": "",
+      "role": "Пользователь",
+      "status": "Работает",
+      "id": "qhsD448"
+    },
+    {
+      "email": "a.zabirov@purpleplane.ru",
+      "password": "уууУ1",
+      "userName": "20",
+      "patronymic": "",
+      "surname": "20",
+      "git": "",
+      "role": "Пользователь",
+      "status": "Работает",
+      "id": "9enwuq_"
+    },
+    {
+      "email": "admin@mail.ru",
+      "password": "Уу3",
+      "userName": "21",
+      "patronymic": "",
+      "surname": "21",
+      "git": "",
+      "role": "Пользователь",
+      "status": "Работает",
+      "id": "RtXJI37"
+    },
+    {
+      "email": "admin@mail.ru",
+      "password": "dD1",
+      "userName": "22",
+      "patronymic": "",
+      "surname": "D",
+      "git": "",
+      "role": "Пользователь",
+      "status": "Работает",
+      "id": "YNNIB05"
+    },
+    {
+      "email": "admin@mail.ru",
+      "password": "ddDD3",
+      "userName": "23",
+      "patronymic": "",
+      "surname": "dd",
+      "git": "",
+      "role": "Пользователь",
+      "status": "Работает",
+      "id": "Qfh1JE_"
+    },
+    {
+      "email": "admin@mail.ru",
+      "password": "Ddd3",
+      "userName": "24",
+      "patronymic": "",
+      "surname": "24",
+      "git": "",
+      "role": "Пользователь",
+      "status": "Работает",
+      "id": "flRcKZd"
+    },
+    {
+      "email": "admin@admin.com",
+      "password": "dD23",
+      "userName": "25",
+      "patronymic": "",
+      "surname": "ds",
+      "git": "",
+      "role": "Пользователь",
+      "status": "Работает",
+      "id": "B_Ci-6i"
+    },
+    {
+      "email": "admin@admin.com",
+      "password": "Ыы1",
+      "userName": "В",
+      "patronymic": "",
+      "surname": "вв",
+      "git": "",
+      "role": "Пользователь",
+      "status": "Работает",
+      "id": "QEgdNqg"
+    },
+    {
+      "email": "admin@admin.com",
+      "password": "ввВ1",
+      "userName": "вы",
+      "patronymic": "",
+      "surname": "ВЫ",
+      "git": "",
+      "role": "Пользователь",
+      "status": "Работает",
+      "id": "OrMarAT"
+    },
+    {
+      "email": "admin@admin.com",
+      "password": "вВЫ1",
+      "userName": "ц",
+      "patronymic": "",
+      "surname": "ЦЦ",
+      "git": "",
+      "role": "Пользователь",
+      "status": "Работает",
+      "id": "vfNlyM5"
+    },
+    {
+      "email": "admin@mail.ru",
+      "password": "777innerHeight / users.length",
+      "userName": "vv",
+      "patronymic": "",
+      "surname": " users.length",
+      "git": "",
+      "role": "Пользователь",
+      "status": "Работает",
+      "id": "lwl7-y2"
+    }
+  ],
+  "bookings": [
+    {
+      "title": "name",
+      "description": "",
+      "type": "тип1",
+      "locate": "",
+      "repeatDays": {
+        "mo": false,
+        "tu": false,
+        "we": false,
+        "th": false,
+        "fr": false
+      },
+      "endTime": "Invalid Date",
+      "startTime": "08:00",
+      "endRepeatDate": "",
+      "startDate": "17/11/2022",
+      "endDate": "Invalid Date",
+      "members": [
+        {
+          "userName": "Al Zabirov",
+          "ava": "",
+          "id": "2",
+          "type": "back",
+          "email": "fff@mail.com",
+          "password": "sS1",
+          "surname": "Zabirov",
+          "patronymic": "Al",
+          "status": "Работает",
+          "role": "Пользователь",
+          "git": "Zebych"
+        },
+        {
+          "email": "admin@mail.ru",
+          "password": "zZ2",
+          "userName": "z2",
+          "patronymic": "",
+          "surname": "z",
+          "git": "",
+          "role": "Пользователь",
+          "status": "Отпуск",
+          "ava": "",
+          "id": "tFmrKw0"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "title": "22",
+      "description": "",
+      "type": "тип2",
+      "locate": "",
+      "repeatDays": {
+        "mo": false,
+        "tu": false,
+        "we": false,
+        "th": false,
+        "fr": false
+      },
+      "endTime": "11:00",
+      "startTime": "10:30",
+      "endRepeatDate": "",
+      "startDate": "22/11/2022",
+      "endDate": "22/11/2022",
+      "members": [
+        {
+          "email": "admin@mail.ru",
+          "password": "zZ2",
+          "userName": "z2",
+          "patronymic": "",
+          "surname": "z",
+          "git": "",
+          "role": "Пользователь",
+          "status": "Отпуск",
+          "ava": "",
+          "id": "tFmrKw0"
+        },
+        {
+          "email": "admin@mail.ru",
+          "password": "sS2",
+          "userName": "s2s",
+          "patronymic": "",
+          "surname": "22",
+          "git": "",
+          "role": "Администратор",
+          "status": "Больничный",
+          "ava": "https://cdn.dribbble.com/users/2996076/screenshots/6089291/ravi_godara_-_avatar.png",
+          "id": "Dr1gzVu",
+          "avaFile": {}
+        }
+      ],
+      "id": 2
+    },
+    {
+      "title": "sdf",
+      "description": "",
+      "type": "тип1",
+      "locate": " ",
+      "repeatDays": {
+        "mo": false,
+        "tu": false,
+        "we": false,
+        "th": false,
+        "fr": false
+      },
+      "endTime": "20:22",
+      "startTime": "14:10",
+      "endRepeatDate": "",
+      "startDate": "17/11/2022",
+      "endDate": "10/12/2022",
+      "members": [
+        {
+          "email": "admin@mail.ru",
+          "password": "zZ2",
+          "userName": "z2",
+          "patronymic": "",
+          "surname": "z",
+          "git": "",
+          "role": "Пользователь",
+          "status": "Отпуск",
+          "ava": "",
+          "id": "tFmrKw0"
+        },
+        {
+          "email": "admin@mail.ru",
+          "password": "sS2",
+          "userName": "s2s",
+          "patronymic": "",
+          "surname": "22",
+          "git": "",
+          "role": "Администратор",
+          "status": "Больничный",
+          "ava": "https://cdn.dribbble.com/users/2996076/screenshots/6089291/ravi_godara_-_avatar.png",
+          "id": "Dr1gzVu",
+          "avaFile": {}
+        }
+      ],
+      "id": 3
+    },
+    {
+      "title": "jkgg",
+      "description": "",
+      "type": "тип2",
+      "locate": "",
+      "repeatDays": {
+        "mo": false,
+        "tu": false,
+        "we": false,
+        "th": false,
+        "fr": false
+      },
+      "endTime": "11:59",
+      "startTime": "10:00",
+      "endRepeatDate": "",
+      "startDate": "18/11/2022",
+      "endDate": "18/11/2022",
+      "members": [
+        {
+          "email": "admin@mail.ru",
+          "password": "zZ2",
+          "userName": "z2",
+          "patronymic": "",
+          "surname": "z",
+          "git": "",
+          "role": "Пользователь",
+          "status": "Отпуск",
+          "ava": "",
+          "id": "tFmrKw0"
+        },
+        {
+          "email": "admin@mail.ru",
+          "password": "sS2",
+          "userName": "s2s",
+          "patronymic": "",
+          "surname": "22",
+          "git": "",
+          "role": "Администратор",
+          "status": "Больничный",
+          "ava": "https://cdn.dribbble.com/users/2996076/screenshots/6089291/ravi_godara_-_avatar.png",
+          "id": "Dr1gzVu",
+          "avaFile": {}
+        }
+      ],
+      "id": 4
+    },
+    {
+      "title": "newType2",
+      "description": "",
+      "type": "newType2",
+      "locate": "",
+      "repeatDays": {
+        "mo": false,
+        "tu": false,
+        "we": false,
+        "th": false,
+        "fr": false
+      },
+      "endTime": "11:30",
+      "startTime": "11:05",
+      "endRepeatDate": "",
+      "startDate": "21/11/2022",
+      "endDate": "21/11/2022",
+      "members": [
+        {
+          "email": "admin@mail.ru",
+          "password": "zZ2",
+          "userName": "z2",
+          "patronymic": "",
+          "surname": "z",
+          "git": "",
+          "role": "Пользователь",
+          "status": "Отпуск",
+          "ava": "",
+          "id": "tFmrKw0"
+        },
+        {
+          "email": "admin@mail.ru",
+          "password": "sS2",
+          "userName": "s2s",
+          "patronymic": "",
+          "surname": "22",
+          "git": "",
+          "role": "Администратор",
+          "status": "Больничный",
+          "ava": "https://cdn.dribbble.com/users/2996076/screenshots/6089291/ravi_godara_-_avatar.png",
+          "id": "Dr1gzVu",
+          "avaFile": {}
+        }
+      ],
+      "id": 6
+    },
+    {
+      "title": "вввв",
+      "description": "",
+      "type": "sdffdg",
+      "locate": "",
+      "repeatDays": {
+        "mo": false,
+        "tu": false,
+        "we": false,
+        "th": false,
+        "fr": false
+      },
+      "endTime": "14:10",
+      "startTime": "13:11",
+      "endRepeatDate": "",
+      "startDate": "22/11/2022",
+      "endDate": "22/11/2022",
+      "members": [
+        {
+          "email": "admin@mail.ru",
+          "password": "sS2",
+          "userName": "s2s",
+          "patronymic": "",
+          "surname": "22",
+          "git": "",
+          "role": "Администратор",
+          "status": "Больничный",
+          "ava": "https://cdn.dribbble.com/users/2996076/screenshots/6089291/ravi_godara_-_avatar.png",
+          "id": "Dr1gzVu",
+          "avaFile": {}
+        },
+        {
+          "email": "admin@mail.ru",
+          "password": "2SDd",
+          "userName": "DD",
+          "patronymic": "",
+          "surname": "d",
+          "git": "",
+          "role": "Пользователь",
+          "status": "Работает",
+          "ava": "",
+          "avaFile": {},
+          "id": "8Hnl_hJ"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "title": "title",
+      "description": "",
+      "type": "newType2",
+      "locate": "",
+      "repeatDays": {
+        "mo": false,
+        "tu": false,
+        "we": false,
+        "th": false,
+        "fr": false
+      },
+      "endTime": "12:05",
+      "startTime": "11:00",
+      "endRepeatDate": "",
+      "startDate": "20/12/2022",
+      "endDate": "20/12/2022",
+      "members": [
+        {
+          "userName": "Al Zabirov",
+          "ava": "",
+          "id": "2",
+          "type": "back",
+          "email": "fff@mail.com",
+          "password": "sS1",
+          "surname": "Zabirov",
+          "patronymic": "Al",
+          "status": "Работает",
+          "role": "Пользователь",
+          "git": "Zebych"
+        },
+        {
+          "email": "admin@mail.ru",
+          "password": "zZ2",
+          "userName": "z2",
+          "patronymic": "",
+          "surname": "z",
+          "git": "",
+          "role": "Пользователь",
+          "status": "Отпуск",
+          "ava": "",
+          "id": "tFmrKw0"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "title": "titler",
+      "description": "",
+      "type": "type20122022",
+      "locate": "",
+      "repeatDays": {
+        "mo": false,
+        "tu": false,
+        "we": false,
+        "th": false,
+        "fr": false
+      },
+      "endTime": "12:15",
+      "startTime": "11:00",
+      "endRepeatDate": "",
+      "startDate": "21/12/2022",
+      "endDate": "21/12/2022",
+      "members": [
+        {
+          "email": "admin@mail.ru",
+          "password": "2SDd",
+          "userName": "DD",
+          "patronymic": "",
+          "surname": "d",
+          "git": "",
+          "role": "Пользователь",
+          "status": "Работает",
+          "ava": "",
+          "avaFile": {},
+          "id": "8Hnl_hJ"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "title": "название",
+      "description": "",
+      "type": "",
+      "locate": "",
+      "repeatDays": {
+        "mo": false,
+        "tu": false,
+        "we": false,
+        "th": false,
+        "fr": false
+      },
+      "endTime": "14:00",
+      "startTime": "13:00",
+      "endRepeatDate": "",
+      "startDate": "23/12/2022",
+      "endDate": "23/12/2022",
+      "members": [
+        {
+          "email": "a.zabirov@purpleplane.ru",
+          "password": "уууУ1",
+          "userName": "20",
+          "patronymic": "",
+          "surname": "20",
+          "git": "",
+          "role": "Пользователь",
+          "status": "Работает",
+          "id": "9enwuq_"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "title": "название",
+      "description": "",
+      "type": "",
+      "locate": "",
+      "repeatDays": {
+        "mo": false,
+        "tu": false,
+        "we": false,
+        "th": false,
+        "fr": false
+      },
+      "endTime": "13:00",
+      "startTime": "12:00",
+      "endRepeatDate": "",
+      "startDate": "23/12/2022",
+      "endDate": "23/12/2022",
+      "members": [
+        {
+          "email": "admin@mail.ru",
+          "password": "vvV1",
+          "userName": "admin@admin.com",
+          "patronymic": "f",
+          "surname": "f",
+          "git": "f",
+          "role": "Пользователь",
+          "status": "Работает",
+          "id": "F6YfllA"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "title": "наз",
+      "description": "",
+      "type": "type20122022",
+      "locate": "",
+      "repeatDays": {
+        "mo": false,
+        "tu": false,
+        "we": false,
+        "th": false,
+        "fr": false
+      },
+      "endTime": "15:00",
+      "startTime": "14:00",
+      "endRepeatDate": "",
+      "startDate": "21/12/2022",
+      "endDate": "21/12/2022",
+      "members": [
+        {
+          "email": "admin@mail.ru",
+          "password": "rrR3",
+          "userName": "33r",
+          "patronymic": "",
+          "surname": "e",
+          "git": "",
+          "role": "Пользователь",
+          "status": "Работает",
+          "id": "uRoglGY"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "title": "новое",
+      "description": "",
+      "type": "type20122022",
+      "locate": "",
+      "repeatDays": {
+        "mo": false,
+        "tu": false,
+        "we": false,
+        "th": false,
+        "fr": false
+      },
+      "endTime": "14:00",
+      "startTime": "13:00",
+      "endRepeatDate": "",
+      "startDate": "10/11/2023",
+      "endDate": "10/11/2023",
+      "members": [
+        {
+          "userName": "Al Zabirov",
+          "ava": "",
+          "id": "2",
+          "type": "back",
+          "email": "fff@mail.com",
+          "password": "sS1",
+          "surname": "Zabirov",
+          "patronymic": "Al",
+          "status": "Работает",
+          "role": "Пользователь",
+          "git": "Zebych"
+        },
+        {
+          "email": "admin@mail.ru",
+          "password": "zZ2",
+          "userName": "z2",
+          "patronymic": "",
+          "surname": "z",
+          "git": "",
+          "role": "Пользователь",
+          "status": "Отпуск",
+          "ava": "",
+          "id": "tFmrKw0"
+        }
+      ],
+      "id": 13
+    },
+    {
+      "title": "321",
+      "description": "",
+      "type": "type20122022",
+      "locate": "",
+      "repeatDays": {
+        "mo": false,
+        "tu": false,
+        "we": false,
+        "th": false,
+        "fr": false
+      },
+      "endTime": "12:15",
+      "startTime": "09:20",
+      "endRepeatDate": "",
+      "startDate": "13/11/2023",
+      "endDate": "14/11/2023",
+      "members": [
+        {
+          "email": "admin@mail.ru",
+          "password": "rrR14",
+          "userName": "15",
+          "patronymic": "",
+          "surname": "fv",
+          "git": "",
+          "role": "Пользователь",
+          "status": "Работает",
+          "id": "NVG1P40"
+        }
+      ],
+      "id": 16
+    },
+    {
+      "title": "Папич стримит",
+      "description": "Смотрим стрим папича",
+      "type": "newType2",
+      "locate": "Венеция",
+      "repeatDays": {
+        "mo": false,
+        "tu": false,
+        "we": false,
+        "th": false,
+        "fr": false
+      },
+      "endTime": "17:50",
+      "startTime": "17:10",
+      "endRepeatDate": "",
+      "startDate": "14/11/2023",
+      "endDate": "14/11/2023",
+      "members": [
+        {
+          "userName": "Al Zabirov",
+          "ava": "",
+          "id": "2",
+          "type": "back",
+          "email": "fff@mail.com",
+          "password": "sS1",
+          "surname": "Zabirov",
+          "patronymic": "Al",
+          "status": "Работает",
+          "role": "Пользователь",
+          "git": "Zebych"
+        },
+        {
+          "email": "admin@mail.ru",
+          "password": "zZ2",
+          "userName": "z2",
+          "patronymic": "",
+          "surname": "z",
+          "git": "",
+          "role": "Пользователь",
+          "status": "Отпуск",
+          "ava": "",
+          "id": "tFmrKw0"
+        },
+        {
+          "email": "a.zabirov@purpleplane.ru",
+          "password": "уууУ1",
+          "userName": "20",
+          "patronymic": "",
+          "surname": "20",
+          "git": "",
+          "role": "Пользователь",
+          "status": "Работает",
+          "id": "9enwuq_"
+        }
+      ],
+      "id": 17
+    },
+    {
+      "title": "Карманы",
+      "description": "да",
+      "type": "321",
+      "locate": "Тут",
+      "repeatDays": {
+        "mo": false,
+        "tu": false,
+        "we": false,
+        "th": false,
+        "fr": false
+      },
+      "endTime": "12:00",
+      "startTime": "11:00",
+      "endRepeatDate": "",
+      "startDate": "20/11/2023",
+      "endDate": "20/11/2023",
+      "members": [
+        {
+          "userName": "Al Zabirov",
+          "ava": "",
+          "id": "2",
+          "type": "back",
+          "email": "fff@mail.com",
+          "password": "sS1",
+          "surname": "Zabirov",
+          "patronymic": "Al",
+          "status": "Работает",
+          "role": "Пользователь",
+          "git": "Zebych"
+        },
+        {
+          "email": "admin@mail.ru",
+          "password": "sS2",
+          "userName": "s2s",
+          "patronymic": "",
+          "surname": "22",
+          "git": "",
+          "role": "Администратор",
+          "status": "Больничный",
+          "ava": "https://cdn.dribbble.com/users/2996076/screenshots/6089291/ravi_godara_-_avatar.png",
+          "id": "Dr1gzVu",
+          "avaFile": {}
+        }
+      ],
+      "id": 18
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "app": {
+    "err_messages": {
+      "auth_err": "An error occurred while executing the request",
+      "date_time_picker": "Enter date",
+      "empty_field": "Required field",
+      "ent_email": "Enter email",
+      "error_password": "wrong login or password",
+      "ent_password": "Enter password",
+      "err_field": "One of the fields contains invalid data",
+      "many_characters": "No more than 50 characters",
+      "not_valid_format": "Not valid format",
+      "not_valid_password": "The password must contain numbers, lowercase and uppercase letters",
+      "not_valid_email": "Email not valid",
+      "not_found": "Not Found Page",
+      "status_400": "Wrong login or password",
+      "members": "Please select at least two participants for the event"
+    },
+    "labels": {
+      "email": "Email*",
+      "password": "Password*",
+      "username": "Name*",
+      "patronymic": "Patronymic",
+      "surname": "Surname*",
+      "git": "Git Hub",
+      "add_type": "Name of the new event type",
+      "remove_type": "Remove event type",
+      "location": "Location event",
+      "remove_user": "Delete user",
+      "members": "Members"
+    },
+    "button_labels": {
+      "login": "Login",
+      "save": "Save",
+      "confirm": "Confirm",
+      "cancel": "Сancel",
+      "delete": "Delete"
+    },
+    "components": {
+      "modals": {
+        "change_event_type": {
+          "title": "Event type"
+        },
+        "add_user_modal": {
+          "add_user": "Add user",
+          "roles": {
+            "label": "Role",
+            "user": "User",
+            "admin": "Admin"
+          },
+          "statuses": {
+            "label": "Status",
+            "work": "Work",
+            "vacation": "Vacation",
+            "sicLeave": "SicLeave"
+          }
+        },
+        "confirmModal": {
+          "description": "After confirmation, all unsaved data will be erased"
+        },
+        "supportRemovedModal": {
+          "description": "Removed?"
+        },
+        "add_event_modal": {
+          "add_event": "Add event",
+          "event_title": "Title*",
+          "description": "Description",
+          "event_start": "Event start",
+          "event_end": "Event end",
+          "repeat": "Repeat",
+          "type": "Event type"
+        }
+      },
+      "tooltips": {
+        "email": "Email",
+        "go": "Go"
+      }
+    },
+    "controlDate": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+    "dateTypes": {
+      "DATE_FORMAT_DAY": "Day",
+      "DATE_FORMAT_WEEK": "Week",
+      "DATE_FORMAT_MONTH": "Month"
+    },
+    "datesTitle": {
+      "mo": "Monday",
+      "tu": "Tuesday",
+      "we": "Wednesday",
+      "th": "Thursday",
+      "fr": "Friday",
+      "sat": "Saturday",
+      "sun": "Sunday"
+    },
+    "more": "more"
+  }
+}

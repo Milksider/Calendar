@@ -1,0 +1,96 @@
+{
+  "app": {
+    "err_messages": {
+      "auth_err": "При выполнении запроса произошла ошибка",
+      "date_time_picker": "Введите дату",
+      "empty_field": "Поле обязательно для заполнения",
+      "ent_email": "Введите Эл. адрес",
+      "ent_password": "Введите пароль",
+      "err_field": "Одно из полей содержит не валидные данные",
+      "many_characters": "Не более 50 символов",
+      "not_valid_format": "Не валидный формат",
+      "not_valid_email": "Эл. адрес не валидный",
+      "not_valid_password": "Пароль должен содержать цифры,строчные и прописные буквы",
+      "not_found": "Страница не найдена",
+      "status_400": "Неверный логин или пароль",
+      "members": "Выберите минимум двух участников события"
+    },
+    "labels": {
+      "email": "Эл. адрес*",
+      "password": "Пароль*",
+      "username": "Имя*",
+      "patronymic": "Отчество",
+      "surname": "Фамилия*",
+      "git": "Git Hub",
+      "add_type": "Название нового типа события",
+      "remove_type": "Удалить тип события",
+      "location": "Локация события",
+      "remove_user": "Удалить пользователя",
+      "members": "Участники"
+    },
+    "button_labels": {
+      "login": "Войти",
+      "save": "Сохранить",
+      "confirm": "Подтвердить",
+      "cancel": "Отмена",
+      "delete": "Удалить"
+    },
+    "components": {
+      "modals": {
+        "change_event_type": {
+          "title": "Тип события"
+        },
+        "add_user_modal": {
+          "add_user": "Добавить пользователя",
+          "roles": {
+            "label": "Роль",
+            "user": "Пользователь",
+            "admin": "Администратор"
+          },
+          "statuses": {
+            "label": "Статус",
+            "work": "Работает",
+            "vacation": "Отпуск",
+            "sicLeave": "Больничный"
+          }
+        },
+        "confirmModal": {
+          "description": "После подтверждения все несохраненные данные будут стерты"
+        },
+        "supportRemovedModal": {
+          "description": "Удалить?"
+        },
+        "add_event_modal": {
+          "add_event": "Добавить событие",
+          "event_title": "Название*",
+          "description": "Описание",
+          "event_start": "Начало события",
+          "event_end": "Завершение события",
+          "repeat": "Повтор",
+          "type": "Тип события",
+          "location": "Локация"
+        }
+      },
+      "tooltips": {
+        "email": "Эл. адрес",
+        "go": "Перейти"
+      }
+    },
+    "controlDate": ["Пн", "Вт", "Ср", "Чт", "Пт", "Сб", "Вс"],
+    "dateTypes": {
+      "DATE_FORMAT_DAY": "День",
+      "DATE_FORMAT_WEEK": "Неделя",
+      "DATE_FORMAT_MONTH": "Месяц"
+    },
+    "datesTitle": {
+      "mo": "Понедельник",
+      "tu": "Вторник",
+      "we": "Среда",
+      "th": "Четверг",
+      "fr": "Пятница",
+      "sat": "Суббота",
+      "sun": "Воскресенье"
+    },
+    "more": "ещё"
+  }
+}

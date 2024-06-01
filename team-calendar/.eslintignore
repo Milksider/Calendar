@@ -1,0 +1,9 @@
+/public
+/build
+/node_modules
+/.husky
+
+
+*.html
+.eslintrc.json
+craco.config.js
